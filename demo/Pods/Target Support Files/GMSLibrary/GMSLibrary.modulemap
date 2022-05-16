@@ -1,0 +1,6 @@
+framework module GMSLibrary {
+  umbrella header "GMSLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

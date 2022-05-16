@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GMSProvideCode</key>
+	<false/>
+	<key>GMSClearChatOnNewSession</key>
+	<true/>
+	<key>GMSChatChannel</key>
+	<string>customer-support</string>
+	<key>GMSCallbackNumber</key>
+	<string>(650) 555-1212</string>
+	<key>GMSUserID</key>
+	<string></string>
+	<key>GMSUserPwd</key>
+	<string></string>
+	<key>GMSWay2Connect</key>
+	<string>VOICE-WAIT-USERTERM</string>
+	<key>GMSProblemContent</key>
+	<string></string>
+	<key>GMSProblemInfo</key>
+	<string></string>
+	<key>GMSAppPath</key>
+	<string></string>
+	<key>GMSServerURLSelected</key>
+	<integer>0</integer>
+	<key>GMSServerURLs</key>
+	<array>
+		<string>http://vce-w0110.us.int.genesyslab.com:8010/genesys</string>
+	</array>
+	<key>GMSCallbackServiceName</key>
+	<string>CallbackV2_VQ</string>
+	<key>GMSServerAPNDebug</key>
+	<false/>
+	<key>GMSUseFirebase</key>
+	<true/>
+	<key>GMSSegment</key>
+	<string>Gold</string>
+	<key>GMSUseDesignerCallback</key>
+	<false/>
+	<key>GMSEnablePush</key>
+	<false/>
+	<key>GMSSendLocation</key>
+	<false/>
+</dict>
+</plist>

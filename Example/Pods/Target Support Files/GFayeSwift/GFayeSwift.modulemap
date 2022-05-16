@@ -1,0 +1,6 @@
+framework module GFayeSwift {
+  umbrella header "GFayeSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
